@@ -14,6 +14,11 @@ Firefox Browser Security Gadgets - (Firefox 瀏覽器安全小工具) - 此工�
 
 ![image](https://i.imgur.com/aY8bKWz.jpg)
 
+## Demo
+
+[![ScreenShot](https://i.imgur.com/aMOvURQ.jpg)](https://www.youtube.com/watch?v=BUCKr2pDRgw&t=4s)
+
+
 
 
 ## 更新
