@@ -1,7 +1,7 @@
 # Fise
-[![Release](https://img.shields.io/badge/%E7%89%88%E6%9C%AC-V1.0-green)](https://github.com/honcbb-secu/Fise/releases)
+[![Release](https://img.shields.io/badge/%E7%89%88%E6%9C%AC-V1.2.1-green)](https://github.com/honcbb-secu/Fise/releases)
 
-[![Release](https://img.shields.io/badge/%E9%BB%9E%E6%88%91-%E4%B8%8B%E8%BC%89-brightgreen)](https://github.com/honcbb-secu/Fise/releases/download/V1.0/Fise.zip)
+[![Release](https://img.shields.io/badge/%E9%BB%9E%E6%88%91-%E4%B8%8B%E8%BC%89-brightgreen)](https://github.com/honcbb-secu/Fise/releases/download/V1.2.1/Fise.zip)
 
 `Fise 程式(壓縮檔密碼)：fisefirfox_honc_bb@gmail.com`
 
@@ -37,7 +37,7 @@ Firefox 版本(Version) 判斷、右上角**開啟選單** > **說明** > **關�
 
 ## 支援
 
-目前支援Firefox 版本 **70.0.1** (最新)
+目前支援Firefox 版本 **71.0** (最新)
 
 目前只支援Firefox 瀏覽器 - **[繁體中文(zh-TW)](https://www.mozilla.org/zh-TW/firefox/download/thanks/)** (未來將會擴增其他語言)
 
@@ -130,7 +130,7 @@ Firefox 版本(Version) 判斷、右上角**開啟選單** > **說明** > **關�
     
     
 
->文章修改最後時間於2019-11-12
+>文章修改最後時間於2019-12-04
     
     
     
