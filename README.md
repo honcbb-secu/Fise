@@ -1,4 +1,4 @@
-# Fise
+# Fise (停更)
 [![Release](https://img.shields.io/badge/%E7%89%88%E6%9C%AC-V1.2.1-green)](https://github.com/honcbb-secu/Fise/releases)
 
 [![Release](https://img.shields.io/badge/%E9%BB%9E%E6%88%91-%E4%B8%8B%E8%BC%89-brightgreen)](https://github.com/honcbb-secu/Fise/releases/download/V1.2.1/Fise.zip)
